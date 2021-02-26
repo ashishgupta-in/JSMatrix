@@ -1,0 +1,19 @@
+{
+  "name": "jsmatrix_extended",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish Gupta <ashish@ottosero.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishgupta-in/JSMatrix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ashishgupta-in/JSMatrix/issues"
+  },
+  "homepage": "https://github.com/ashishgupta-in/JSMatrix#readme",
+  "description": ""
+}
