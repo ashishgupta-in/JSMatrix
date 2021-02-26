@@ -40,12 +40,6 @@ const addMatrices = (...args) =>{
           rows = args[m].length
        if(rows!=args[m].length)
           throw new Error('number of rows should be same')
-    //    for(let i=0; i<args[m].length; i++){
-    //       if(cols==0)
-    //          cols = args[m][i].length
-    //       if(cols!=args[m][i].length)
-    //          throw new Error('number of columns should be same')
-    //    }
     }
  
     let result = new Array(rows);
